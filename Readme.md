@@ -7,10 +7,8 @@ This project demonstrates basic array operations in Java, including displaying a
 #### - Link ArrayApp.java
 -[ArrayApp.java](lab9array/src/main/java/com/array/ArrayApp.java)
 ArrayApp.java
-It is a Java application that prompts the user to input the size and elements of an array. It then utilizes methods from the 
+It is a Java application that prompts the user to input the size and elements of an array. It then utilizes methods from the #### - Link ArrayUtitlities.java
 
-
-#### - Link ArrayUtitlities.java
 -[ArrayUtilities.java](lab9array/src/main/java/com/array/ArrayUtitlities.java)
  ArrayUtitlities
 
