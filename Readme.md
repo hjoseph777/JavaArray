@@ -11,9 +11,8 @@ It is a Java application that prompts the user to input the size and elements of
 
 
 #### - Link ArrayUtitlities.java
--[ArrayUtilities.java](lab9array/src/main/java/com/array/ArrayUtilities.java)
-
-ArrayUtitlities
+-[ArrayUtilities.java](lab9array/src/main/java/com/array/ArrayUtitlities.java)
+ ArrayUtitlities
 
  is a utility class that provides static methods for array operations. It includes methods to display the elements of an array and to calculate the total of the elements in the array.
 
