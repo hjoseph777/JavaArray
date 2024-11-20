@@ -1,17 +1,16 @@
 
-### Synopsis
+### Synopsis LAB 9 Array
 
-- Link
 # Array Application
 This project demonstrates basic array operations in Java, including displaying array elements and calculating their total.
 
-#### ArrayApp.java
+#### - Link ArrayApp.java
 - [ArrayApp.java](lab9array/src/main/java/com/array/ArrayApp.java)
 ArrayApp.java
 It is a Java application that prompts the user to input the size and elements of an array. It then utilizes methods from the 
 
-- Link
-#### ArrayUtitlities.java
+
+#### - Link ArrayUtitlities.java
 - [ArrayUtilities.java](lab9array/src/main/java/com/array/ArrayUtilities.java)
 
 ArrayUtitlities
@@ -24,10 +23,12 @@ ArrayApp  depends on  ArrayUtitlities  to perform operations on the array. Speci
 
 
 ## Screen Output
-![Images](/src/resources/images/screenoutput.png)
+![Images](/lab9array/src/resources/images/screenoutput.png)
 
 ## Author
 Harry Joseph
+
+https://Github.com/hjoseph777
 
 ## Date
 Date 19/11/2024
